@@ -1,7 +1,4 @@
-# ACE - Audica Customs Editor
-This is a cross-platform Audica custom map editor build using Electron
-
-**This repository is still in very early development. It does not do anything yet.**
+# Electron boilerplate
 
 # Problems?
 Please open a Github issue with a detailed description of the issue you're having. Feel free to contribute and make a pull request!
